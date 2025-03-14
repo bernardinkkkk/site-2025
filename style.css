@@ -1,4 +1,4 @@
-body{
+body {
     margin: 0;
     padding: 0;
 }
@@ -6,7 +6,7 @@ body{
 .site {
     width: 100%;
     max-width: 100vw;
-    
+
 }
 
 .header {
@@ -80,23 +80,23 @@ body{
 
 .mid_3 {
     height: 300px;
-    width: 350px;
+    width: 370px;
     background-color: pink;
 }
 
 .mid_4 {
     height: 300px;
-    width: 350px;
+    width: 370px;
     background-color: darkolivegreen;
 }
 
 .mid_5 {
     height: 300px;
-    width: 350px;
+    width: 370px;
     background-color: darkorange;
 }
 
-.direita{
+.direita {
     float: right;
 }
 
